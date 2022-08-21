@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/Chicken.ico</file>
+        <file>res/Cow.ico</file>
+        <file>res/Dog-Flat Ears.ico</file>
+        <file>res/Dog-High Ears.ico</file>
+        <file>res/Fish.ico</file>
+        <file>res/Flying-Chicken.ico</file>
+        <file>res/Shark.ico</file>
+        <file>res/Skunk.ico</file>
+        <file>res/startBtn.jpeg</file>
+        <file>res/black.jpeg</file>
+        <file>res/favicon.ico</file>
+        <file>res/playback.jpeg</file>
+    </qresource>
+</RCC>
